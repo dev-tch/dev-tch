@@ -17,7 +17,7 @@
 - [annotation && asynchronous programming && Testing](https://github.com/dev-tch/alx-backend-python.git)
 - [Hashing && REST API with FLASK SQLALCHEMY SQLITE JSON FILE](https://github.com/dev-tch/alx-backend-user-data.git)
 
-## databases storages(MYSQL, MONGODB, REDIS)
+## databases(MYSQL, MONGODB, REDIS)
 this repo contains : basic MYSQL + basic Mongo db (&&integration python) + redis with python 
 - [backend storage](https://github.com/dev-tch/alx-backend-storage.git)
 
