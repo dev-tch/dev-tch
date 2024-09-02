@@ -17,10 +17,6 @@
 - [annotation && asynchronous programming && Testing](https://github.com/dev-tch/alx-backend-python.git)
 - [Hashing && REST API with FLASK SQLALCHEMY SQLITE JSON FILE](https://github.com/dev-tch/alx-backend-user-data.git)
 
-Rest api( Flask ,SQLALCHEMY , SQLLITE) + working with json file + saving to SQL LITE
-
-  
-  -  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
