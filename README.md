@@ -6,9 +6,9 @@
 [Program RoadMap](https://ibb.co/album/jHVM37)
 
 
+# projects 
 
-
-- 🔭 I’m currently working on [c programming projects](https://github.com/dev-tch/alx-low_level_programming)
+- [c programming projects](https://github.com/dev-tch/alx-low_level_programming)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
