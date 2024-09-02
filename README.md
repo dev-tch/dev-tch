@@ -8,6 +8,8 @@
 ## c programming 
 - [intensive training projects ](https://github.com/dev-tch/alx-low_level_programming)
 - [team project : printf  ](https://github.com/dev-tch/printf.git)
+- [team project : simple shell  ](https://github.com/dev-tch/simple_shell)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
