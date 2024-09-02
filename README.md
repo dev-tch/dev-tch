@@ -3,6 +3,15 @@
 [certificate Link](https://intranet.alxswe.com/certificates/92BpYSeNz7)
 [Program RoadMap](https://ibb.co/album/jHVM37)
 
+<h1 align="center">Hi 👋, I'm Tijani Chaabani</h1>
+<h3 align="center">A passionate frontend developer from Tunisia</h3>
+
+- 🔭 I’m currently working on [c programming projects](https://github.com/dev-tch/alx-low_level_programming)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <!--
 **dev-tch/dev-tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
