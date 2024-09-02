@@ -12,7 +12,7 @@
 - [project : interpreter for Monty ByteCodes files  ](https://github.com/dev-tch/monty.git)
 - [Sorting Algorithms](https://github.com/dev-tch/sorting_algorithms.git)
 
-## python programming (+ some javascript & c)
+## python programming (+ some javascript && c)
 - [basics python &&basics java script && doubly linked list in c](https://github.com/dev-tch/alx-higher_level_programming.git)
 - [annotation && asynchronous programming && Testing](https://github.com/dev-tch/alx-backend-python.git)
 
