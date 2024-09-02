@@ -5,10 +5,9 @@
 [certificate Link](https://intranet.alxswe.com/certificates/92BpYSeNz7)
 [Program RoadMap](https://ibb.co/album/jHVM37)
 
-
-# projects 
 ## c programming 
 - [intensive training projects ](https://github.com/dev-tch/alx-low_level_programming)
+- [team project : printf  ](https://github.com/dev-tch/printf.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
