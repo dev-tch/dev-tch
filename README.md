@@ -1,5 +1,5 @@
 <h1 align="center">Hi Geeks👋, I'm Tijani Chaabani</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate software engineer from Tunisia</h3>
 
 ## software Engineer program 12 months With ALX  
 [certificate Link](https://intranet.alxswe.com/certificates/92BpYSeNz7)
