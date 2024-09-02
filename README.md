@@ -7,8 +7,8 @@
 
 
 # projects 
-
-- [c programming intensive training](https://github.com/dev-tch/alx-low_level_programming)
+## c programming 
+- [intensive training projects ](https://github.com/dev-tch/alx-low_level_programming)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
