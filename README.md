@@ -31,6 +31,9 @@
 this repo contains : basic MYSQL + basic Mongo db (&&integration python) + redis with python 
 - [backend storage](https://github.com/dev-tch/alx-backend-storage.git)
 
+## Devops(shell, web infracture etc ...)
+[devops](https://github.com/dev-tch/alx-system_engineering-devops.git)
+
 ## projects with multiple technolgies 
 ### project1 (back + front) 
 > handle missed documents
