@@ -42,7 +42,7 @@ iteration project from V1 to V4:
 - [version1 of project ](https://github.com/dev-tch/AirBnB_clone.git)
 - [version2 of project ](https://github.com/dev-tch/AirBnB_clone_v2.git)
 - [version3 of project](https://github.com/dev-tch/AirBnB_clone_v3.git)
-- [version4 of project)(https://github.com/dev-tch/AirBnB_clone_v4.git)
+- [version4 of project](https://github.com/dev-tch/AirBnB_clone_v4.git)
   
 <!--
 **dev-tch/dev-tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
