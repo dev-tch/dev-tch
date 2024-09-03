@@ -17,6 +17,7 @@
 - [basics python &&basics java script && doubly linked list in c](https://github.com/dev-tch/alx-higher_level_programming.git)
 - [annotation && asynchronous programming && Testing](https://github.com/dev-tch/alx-backend-python.git)
 - [Hashing && REST API with FLASK SQLALCHEMY SQLITE JSON FILE](https://github.com/dev-tch/alx-backend-user-data.git)
+- [caching && pagination && i18n && queuing](https://github.com/dev-tch/alx-backend.git)
 - [resolving some problems](https://github.com/dev-tch/alx-interview.git)
 
 ## javascript programming ( ES6, nodeJs , api , testing , express)  + Type script 
