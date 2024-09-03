@@ -24,7 +24,12 @@
 this repo contains : basic MYSQL + basic Mongo db (&&integration python) + redis with python 
 - [backend storage](https://github.com/dev-tch/alx-backend-storage.git)
 
-
+## projects with multiple technolgies 
+### project1 (back + front) 
+> handle missed document
+- [Front with angular 17](https://github.com/dev-tch/frontend_LostDocFinder.git)
+- [API back with laravel,mysql,Apache,nginx](https://github.com/dev-tch/frontend_LostDocFinder.git)
+  
 <!--
 **dev-tch/dev-tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
