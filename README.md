@@ -11,6 +11,7 @@
 - [team project : simple shell  ](https://github.com/dev-tch/simple_shell)
 - [project : interpreter for Monty ByteCodes files  ](https://github.com/dev-tch/monty.git)
 - [Sorting Algorithms](https://github.com/dev-tch/sorting_algorithms.git)
+- [binary_trees](https://github.com/dev-tch/binary_trees.git)
 
 ## python programming (+ some javascript && c)
 - [basics python &&basics java script && doubly linked list in c](https://github.com/dev-tch/alx-higher_level_programming.git)
