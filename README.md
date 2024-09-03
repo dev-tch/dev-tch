@@ -26,9 +26,12 @@ this repo contains : basic MYSQL + basic Mongo db (&&integration python) + redis
 
 ## projects with multiple technolgies 
 ### project1 (back + front) 
-> handle missed document
+> handle missed documents
 - [Front with angular 17](https://github.com/dev-tch/frontend_LostDocFinder.git)
 - [API back with laravel,mysql,Apache,nginx](https://github.com/dev-tch/frontend_LostDocFinder.git)
+### project2 (back + front) : python(django, Rest framework, websocket , channels(redis PUB/SUB) ), mysql , postgresql, javascrit, jquery , bootstrap , redis server 
+> allows users in a queue to receive real-time updates on the counters of selected offices
+[TicketCounterNotify](https://github.com/dev-tch/tcnproject.git)
   
 <!--
 **dev-tch/dev-tch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
