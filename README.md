@@ -29,7 +29,8 @@ this repo contains : basic MYSQL + basic Mongo db (&&integration python) + redis
 > handle missed documents
 - [Front with angular 17](https://github.com/dev-tch/frontend_LostDocFinder.git)
 - [API back with laravel,mysql,Apache,nginx](https://github.com/dev-tch/frontend_LostDocFinder.git)
-### project2 (back + front) : python(django, Rest framework, websocket , channels(redis PUB/SUB) ), mysql , postgresql, javascrit, jquery , bootstrap , redis server 
+### project2 (back + front) 
+technolgies : python(django, Rest framework, websocket , channels(redis PUB/SUB) ), mysql , postgresql, javascrit, jquery , bootstrap , redis server 
 > allows users in a queue to receive real-time updates on the counters of selected offices
 [TicketCounterNotify](https://github.com/dev-tch/tcnproject.git)
   
